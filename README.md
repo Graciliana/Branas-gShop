@@ -3,6 +3,12 @@
 
 Vamos implementar um sistema de vendas online com a possibilidade de realizar pedidos com múltiplos itens, cada um deles com uma quantidade variável, calculando o frete, os impostos, aplicando um cupom de desconto e ainda interagindo com o estoque. Além disso teremos ainda fluxos de pagamento e cancelamento do pedido realizado. Para começar, faremos um projeto estruturado de forma simples, faça do jeito que você souber, depois vamos ir refatorando juntos.
 
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | ** Branas - gShop **
+| :label: Tecnologias | javaScript, html, css, Node.js, typescript
+| :rocket: URL         | https://url-deploy.com.br
+| :fire: Desafio     | https://url-do-desafio.com.br
 # Projeto - Parte 01
 ## Testes
 1 - Deve criar um pedido com 3 produtos (com descrição, preço e quantidade) e calcular o valor total
@@ -24,3 +30,7 @@ Vamos implementar um sistema de vendas online com a possibilidade de realizar pe
 
 ## Como funciona o algoritmo do CPF?
 <https://www.macoratti.net/alg_cpf.htm>
+
+# Disclaimer
+Este repositório foi criado com o intuito de colocar em prática conhecimentos adquiridos no curso de Clean Code e Clean Architecture do Rodrigo Branas Turma 10
+<https://app.branas.io/public/products/bf60d5e1-2af4-4d5d-8173-40944b292b21>
