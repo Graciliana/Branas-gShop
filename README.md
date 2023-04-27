@@ -41,3 +41,31 @@ Vamos implementar um sistema de vendas online com a possibilidade de realizar pe
 
 Este repositório foi criado com o intuito de colocar em prática conhecimentos adquiridos no curso de Clean Code e Clean Architecture do Rodrigo Branas Turma 10
 <https://app.branas.io/public/products/bf60d5e1-2af4-4d5d-8173-40944b292b21>
+
+## Ambiente de desenvolvimento
+
+ ```javascript
+   npm init -y
+   npm install typescript jest @types/jest ts-node ts-jest
+ ```
+
+## Configuração  do projeto
+
+```javascript
+    npx tsc --init
+    npx ts-jest config:init
+```
+
+## Criar pastas src e teste em seguida
+
+```javascript
+    npx jest
+    npx jest --watchAll
+    npx jest --coverage
+```
+
+## Executar
+
+```javascript
+   npx jest com as opções --watchAll ou --coverage
+```
